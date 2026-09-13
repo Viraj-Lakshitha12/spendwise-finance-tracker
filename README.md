@@ -106,30 +106,35 @@ SpendWise follows a clean architecture pattern with clear separation of concerns
 
 ## 📸 Screenshots
 
+<div align="center">
+
 ### Dashboard
-<!-- Add screenshot: Dashboard showing monthly spending summary and category breakdown -->
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/image-1.png)
+
 *Main dashboard with spending overview and category breakdown*
 
+---
+
 ### Transaction History
-<!-- Add screenshot: Transaction list with search and filter -->
-![History](screenshots/history.png)
+![Transaction History](screenshots/image-2.png)
+
 *Transaction history with search and category filtering*
 
+---
+
 ### Budget Management
-<!-- Add screenshot: Budget progress bars per category -->
-![Budget](screenshots/budget.png)
+![Budget Management](screenshots/image-3.png)
+
 *Budget management with visual progress indicators*
 
-### Category Management
-<!-- Add screenshot: Custom category creation and editing -->
-![Categories](screenshots/categories.png)
-*Category management with custom colors and budgets*
+---
 
-### Add Transaction
-<!-- Add screenshot: Transaction input form -->
-![Add Transaction](screenshots/add_transaction.png)
-*Add new transaction with category selection*
+### Login
+![Login](screenshots/image-4.png)
+
+*Secure login with biometric authentication support*
+
+</div>
 
 ## 🚀 Getting Started
 

@@ -71,9 +71,11 @@ Thumbs.db
 .settings/
 .classpath
 local.properties
+# Keep README.md but ignore other markdown files
+!README.md
+*.md
 
-# Screenshots (add these manually if needed)
-screenshots/
+# Screenshots folder is included for documentation
 
 # Backup files
 *.bak
